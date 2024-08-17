@@ -15,6 +15,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>ssm-integration-practice</module>
+        <module>ssm-integration-todolist</module>
     </modules>
 
     <properties>
